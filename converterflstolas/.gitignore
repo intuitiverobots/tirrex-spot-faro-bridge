@@ -1,0 +1,23 @@
+# Build outputs and binaries
+x64/
+Debug/
+Release/
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.obj
+
+# Visual Studio files
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+
+# IDE files
+.vscode/
+
+# FARO SCENE API runtime dependencies and SDK
+_Utils/converter_fls_to_las/
+_Utils/Developer/
+_Utils/FARO SCENE API key/
