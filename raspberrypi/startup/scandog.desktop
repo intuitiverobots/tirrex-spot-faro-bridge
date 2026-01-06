@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=ScanDog
+Exec=lxterminal -e "bash -c '/home/intuitiverobots/Documents/raspberrypi/startup/scandog.sh'"
+Type=Application
+X-GNOME-Autostart-enabled=true

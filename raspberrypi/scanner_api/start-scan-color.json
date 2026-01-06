@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "area": {
+      "startHorizontal": 0,
+      "startVertical": -60,
+      "stopHorizontal": 360,
+      "stopVertical": 90
+    },
+    "color": {
+      "additionalPicturePositions": [],
+      "captureMode": "HDR_5X",
+      "meteringMode": "EVEN_WEIGHTED"
+    },
+    "disableHashing": false,
+    "distanceRange": "NORMAL",
+    "filters": {
+      "clearContour": true,
+      "clearSky": true
+    },
+    "motionControl": {
+      "forceEndAngleReached": true,
+      "scanStopCondition": "AUTOMATIC"
+    },
+    "panoCam": null,
+    "profileId": "d4f04632-282f-736a-29f6-7afef5a322e9",
+    "qualityFactor": 4,
+    "resolutionIndex": 6,
+    "scanMode": "SPHERICAL",
+    "sensorUsage": {
+      "skipSensorRun": false,
+      "useAltimeter": false,
+      "useCompass": true,
+      "useGps": false,
+      "useInclinometer": true
+    }
+  }
+}

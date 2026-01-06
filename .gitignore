@@ -2,6 +2,7 @@
 *_creds.txt
 *_creds
 data_acquisition_start_scan_creds.txt
+raspberrypi/scanner_api/visualiser_addresses.txt
 *.key
 *.pem
 *.p12
