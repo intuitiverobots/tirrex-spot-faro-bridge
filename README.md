@@ -19,9 +19,9 @@ This project is a bridge between Boston Dynamics' Spot robot and FARO scanners. 
 
 ## Context
 
-Tirrex is a project funded under an agreement between the Agence Nationale de la Recherche [ANR] and the Centre Nationale de la Recherche Scientifique [CNRS], the coordinating institution of a consortium, as part of the 'Investissements d’avenir' program.
+Tirrex is a project funded under an agreement between the Agence Nationale de la Recherche [ANR] and the Centre Nationale de la Recherche Scientifique [CNRS], the coordinating institution of a consortium, as part of the 'France 2030' program.
 
-**Project Reference:** [ANR Investissements d'avenir - ProjetIA-21-ESRE-0015](https://anr.fr/ProjetIA-21-ESRE-0015) - CNRS/ANR Convention
+**Project Reference:** [ANR France 2030 - ProjetIA-21-ESRE-0015](https://anr.fr/ProjetIA-21-ESRE-0015) - CNRS/ANR Convention
 
 ## Hardware Components
 
